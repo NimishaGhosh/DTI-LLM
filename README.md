@@ -2,7 +2,9 @@
 LLM based reasoning model to predict Drug-Target Interaction
 
 Instructions to run the code:
+
 Direct:
+
 python run_experiments.py  \
 --train_emb /train_with_emb.parquet \
 --test_emb /test_with_emb.parquet \
@@ -13,6 +15,7 @@ python run_experiments.py  \
 --seeds 42 123 999
 
 Chain-of-Thought:
+
 python run_experiments.py  \
 --train_emb /train_with_emb.parquet \
 --test_emb /test_with_emb.parquet \
@@ -23,6 +26,7 @@ python run_experiments.py  \
 --seeds 42 123 999
 
 Synthetic Rationale:
+
 python run_experiments_SR.py  \
 --train_emb /train_with_emb.parquet \
 --test_emb /test_with_emb.parquet \
