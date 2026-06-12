@@ -33,7 +33,7 @@ python run_experiments_SR.py
 --base_model /Qwen
 --output_root /Results_Qwen/SR 
 --prompt_style synthetic_rationale 
---feature_mode all \  
+--feature_mode all   
 --seeds 42 123 999
 
 
