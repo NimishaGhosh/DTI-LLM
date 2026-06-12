@@ -1,5 +1,7 @@
 # DTI-LLM
-LLM based reasoning model to predict Drug-Target Interaction
+Repository of the paper "Do Reasoning-Enabled Large Language Models Improve Drug–Target Interaction Prediction? A Comparative Study"
+<img width="1018" height="384" alt="Figure_Pipeline" src="https://github.com/user-attachments/assets/5b7eb1c6-85ae-499f-84d0-8b8865e15897" />
+
 
 Instructions to run the code:
 
